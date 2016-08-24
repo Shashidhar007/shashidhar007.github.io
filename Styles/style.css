@@ -11,7 +11,7 @@ menu, nav, section {
 }
 
 body {
-    background: url("../images/background.png");
+    background: url("../Images/background.png");
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     margin: 0px;
@@ -29,7 +29,7 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background: url("../images/background2.png");
+    background: url("../Images/background2.png");
     opacity: 0.95;
 }
 
@@ -299,39 +299,39 @@ input.submit {
 }
 
 .a1 {
-    background: url(../images/a1.jpg) 0 0 no-repeat;
+    background: url(../Images/a1.jpg) 0 0 no-repeat;
 }
 
 .a2 {
-    background: url(../images/a2.jpg) 0 -175px no-repeat;
+    background: url(../Images/a2.jpg) 0 -175px no-repeat;
 }
 
 .a3 {
-    background: url(../images/a3.jpg) 0 -350px no-repeat;
+    background: url(../Images/a3.jpg) 0 -350px no-repeat;
 }
 
 .b1 {
-    background: url(../images/b1.jpg) -350px 0 no-repeat;
+    background: url(../Images/b1.jpg) -350px 0 no-repeat;
 }
 
 .b2 {
-    background: url(../images/b2.jpg) -350px -175px no-repeat;
+    background: url(../Images/b2.jpg) -350px -175px no-repeat;
 }
 
 .b3 {
-    background: url(../images/b3.jpg) -350px -350px no-repeat;
+    background: url(../Images/b3.jpg) -350px -350px no-repeat;
 }
 
 .c1 {
-    background: url(../images/c1.jpg) -700px 0 no-repeat;
+    background: url(../Images/c1.jpg) -700px 0 no-repeat;
 }
 
 .c2 {
-    background: url(../images/c2.jpg) -700px -175px no-repeat;
+    background: url(../Images/c2.jpg) -700px -175px no-repeat;
 }
 
 .c3 {
-    background: url(../images/c3.jpg) -700px -350px no-repeat;
+    background: url(../Images/c3.jpg) -700px -350px no-repeat;
 }
 
 .grid > div.active {
@@ -347,7 +347,7 @@ input.submit {
     position: absolute;
     left: 0;
     top: 0;
-    background: url(../images/cursor.png);
+    background: url(../Images/cursor.png);
     width: 50px;
     height: 65px;
     z-index: 6;
@@ -849,7 +849,7 @@ a.button {
 .experience {
     width: 100%;
     height: 1825px;
-    background-image: url("../images/background1.png");
+    background-image: url("../Images/background1.png");
     opacity: 0.95;
     background-position: center center;
     background-repeat: no-repeat;
